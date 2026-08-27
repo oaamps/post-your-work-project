@@ -19,3 +19,6 @@ This project uses Python to explore bikeshare data for the New York City. It all
 ## Requirements
 - Python 3
 - pandas and NumPy
+
+## Acknowledgements
+This project was completed as part of Udacity's Introduction to Version Control course.
