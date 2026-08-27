@@ -15,3 +15,7 @@ This project uses Python to explore bikeshare data for the New York City. It all
 2. new_yrk_city.csv - contains the bikeshare data and is excluded from Git tracking.
 3. .gitignore - prevents the CSV data file from being uploaded to GitHub.
 4. README.md - provides information and usage instructions for the project.
+
+## Requirements
+- Python 3
+- pandas and NumPy
